@@ -1,0 +1,11 @@
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje 2023.csproj.AssemblyReference.cache
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje_2023.Form1.resources
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje_2023.Properties.Resources.resources
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje 2023.csproj.GenerateResource.cache
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje 2023.csproj.CoreCompileInputs.cache
+C:\Users\RANA\source\repos\Proje 2023\bin\Debug\Proje 2023.exe.config
+C:\Users\RANA\source\repos\Proje 2023\bin\Debug\Proje 2023.exe
+C:\Users\RANA\source\repos\Proje 2023\bin\Debug\Proje 2023.pdb
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje 2023.exe
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje 2023.pdb
+C:\Users\RANA\source\repos\Proje 2023\obj\Debug\Proje_2023.Form2.resources
